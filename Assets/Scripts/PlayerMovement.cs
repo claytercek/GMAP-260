@@ -9,34 +9,57 @@ public class PlayerMovement : MonoBehaviour {
 	private Animator animator;
 	private float initialScalex;
 	private float moveDirection;
+    private bool isOnWall = false;
 
 	// Update is called once per frame
 	void Awake () {
 		animator = GetComponent<Animator>();
 		initialScalex = transform.localScale.x;
 	}
-	void Update () {
+    /*
+    private void OnCollisionEnter2D(Collision2D col)
+    {
+        if (col == gameObject.GetComponent<Rigidbody2D>().GetComponent<BoxCollider2D>().GetComponent<Collision2D>())
+        {
+            isOnWall = true;
+        }
+        else
+            isOnWall = false;
+    }
+    */
+    void Update () {
         PlayerMove();
-		if (Input.GetKeyDown ("right") || Input.GetKeyDown ("left")) {
-			animator.SetBool ("Move", true);
-		}
-		if (Input.GetKeyUp ("right") || Input.GetKeyUp ("left")) {
-			animator.SetBool ("Move", false);
-		}
+        if(!isOnWall)
+        {
+            if (gameObject.GetComponent<Rigidbody2D>().GetComponent<BoxCollider2D>())
+                if (Input.GetKeyDown("right") || Input.GetKeyDown("left"))
+                {
+                    animator.SetBool("Move", true);
+                }
+            if (Input.GetKeyUp("right") || Input.GetKeyUp("left"))
+            {
+                animator.SetBool("Move", false);
+            }
 
-		moveDirection = Mathf.Ceil (Input.GetAxis ("Horizontal"));
-		if (Input.GetKeyDown ("right")) {
-			moveDirection = 1;
-		}
-		if (Input.GetKeyDown ("left")) {
-			moveDirection = -1;
-		}
-		if (moveDirection != 0) {
-			transform.localScale = new Vector3(moveDirection*initialScalex, transform.localScale.y, transform.localScale.z);
-		}
+            moveDirection = Mathf.Ceil(Input.GetAxis("Horizontal"));
+            if (Input.GetKeyDown("right"))
+            {
+                moveDirection = 1;
+            }
+            if (Input.GetKeyDown("left"))
+            {
+                moveDirection = -1;
+            }
+            if (moveDirection != 0)
+            {
+                transform.localScale = new Vector3(moveDirection * initialScalex, transform.localScale.y, transform.localScale.z);
+            }
+        }
+       
 
 
 	}
+   
 
 
     void PlayerMove()
