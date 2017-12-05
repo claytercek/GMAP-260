@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 9}
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -36,8 +36,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 202
+    x: 200
     y: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
     width: 421
     height: 535
@@ -47,6 +48,12 @@ MonoBehaviour:
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
+=======
+    width: 631
+    height: 629
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> parent of 53f5659... rand
   m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 21}
@@ -67,18 +74,27 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 623
     y: 0
     width: 540
     height: 535
 =======
     x: 1347
+=======
+    x: 831
+>>>>>>> parent of 53f5659... rand
     y: 0
-    width: 204
+    width: 720
     height: 629
+<<<<<<< HEAD
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
+=======
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> parent of 53f5659... rand
   m_ActualView: {fileID: 22}
   m_Panes:
   - {fileID: 22}
@@ -101,6 +117,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 641
     width: 277
     height: 165
@@ -111,12 +128,18 @@ MonoBehaviour:
     height: 249
   m_MinSize: {x: 242, y: 221}
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
+=======
+    y: 753
+    width: 369
+    height: 194
+  m_MinSize: {x: 102, y: 121}
+>>>>>>> parent of 53f5659... rand
   m_MaxSize: {x: 4002, y: 4021}
-  m_ActualView: {fileID: 17}
+  m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
   - {fileID: 17}
-  m_Selected: 1
+  m_Selected: 0
   m_LastSelected: 0
 --- !u!114 &5
 MonoBehaviour:
@@ -146,11 +169,15 @@ MonoBehaviour:
 =======
     width: 369
     height: 947
-  m_MinSize: {x: 277, y: 292}
+  m_MinSize: {x: 277, y: 192}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 144
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
+=======
+  controlID: 105
+>>>>>>> parent of 53f5659... rand
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -167,6 +194,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 202
 <<<<<<< HEAD
     height: 535
@@ -175,6 +203,12 @@ MonoBehaviour:
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
+=======
+    width: 200
+    height: 629
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> parent of 53f5659... rand
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -209,11 +243,15 @@ MonoBehaviour:
 =======
     width: 1551
     height: 629
-  m_MinSize: {x: 610, y: 221}
-  m_MaxSize: {x: 12010, y: 4021}
+  m_MinSize: {x: 608, y: 221}
+  m_MaxSize: {x: 12008, y: 4021}
   vertical: 0
+<<<<<<< HEAD
   controlID: 84
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
+=======
+  controlID: 187
+>>>>>>> parent of 53f5659... rand
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -311,11 +349,15 @@ MonoBehaviour:
 =======
     width: 1920
     height: 947
-  m_MinSize: {x: 887, y: 492}
-  m_MaxSize: {x: 16012, y: 14042}
+  m_MinSize: {x: 885, y: 492}
+  m_MaxSize: {x: 16010, y: 14042}
   vertical: 0
+<<<<<<< HEAD
   controlID: 82
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
+=======
+  controlID: 185
+>>>>>>> parent of 53f5659... rand
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -364,11 +406,15 @@ MonoBehaviour:
 =======
     width: 1551
     height: 947
-  m_MinSize: {x: 610, y: 492}
-  m_MaxSize: {x: 12010, y: 14042}
+  m_MinSize: {x: 608, y: 492}
+  m_MaxSize: {x: 12008, y: 14042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 83
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
+=======
+  controlID: 186
+>>>>>>> parent of 53f5659... rand
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -390,8 +436,12 @@ MonoBehaviour:
     height: 641
 =======
     width: 369
+<<<<<<< HEAD
     height: 698
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
+=======
+    height: 753
+>>>>>>> parent of 53f5659... rand
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 19}
@@ -492,12 +542,12 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1553
-    y: 790
-    width: 367
-    height: 228
+    x: 2
+    y: 575
+    width: 273
+    height: 229
   m_PreviewResizer:
-    m_CachedPref: -50
+    m_CachedPref: 50
     m_ControlHash: 510661707
     m_PrefName: Preview_TilemapBrushInspector
   m_Palette: {fileID: 1316344894187296, guid: bec0dc9638ce80644813df703fd8cdec, type: 2}
@@ -536,28 +586,34 @@ MonoBehaviour:
     m_ExpandedIDs: 46f5ffff00000000
 =======
     y: 92
-    width: 200
+    width: 198
     height: 608
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: b8290000
     m_LastClickedID: 10680
     m_ExpandedIDs: 96fbffffa4fbffffa6fbffff0000000098290000d62900001a2a0000
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
+=======
+    m_SelectedIDs: 102d0000
+    m_LastClickedID: 11536
+    m_ExpandedIDs: 3af5ffff00000000de2c0000
+>>>>>>> parent of 53f5659... rand
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: dead
-      m_OriginalName: dead
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -693354
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 6}
     m_SearchString: 
@@ -598,9 +654,14 @@ MonoBehaviour:
     x: 1553
     y: 92
     width: 367
+<<<<<<< HEAD
     height: 677
   m_ScrollPosition: {x: 0, y: 78.95508}
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
+=======
+    height: 732
+  m_ScrollPosition: {x: 0, y: 0}
+>>>>>>> parent of 53f5659... rand
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 100
@@ -646,6 +707,7 @@ MonoBehaviour:
     m_SearchArea: 0
     m_Folders:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
@@ -658,11 +720,19 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Animations
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
+=======
+    - Assets/Scripts
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Scripts
+>>>>>>> parent of 53f5659... rand
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/ClayTercek/Desktop/GMAP 260/GMAP-260
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_SelectedIDs: 122c0000
     m_LastClickedID: 11282
@@ -672,22 +742,27 @@ MonoBehaviour:
     m_LastClickedID: 10236
     m_ExpandedIDs: 000000002c27000000ca9a3bffffff7f
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
+=======
+    m_SelectedIDs: 942c0000
+    m_LastClickedID: 11412
+    m_ExpandedIDs: 000000001c2c000000ca9a3bffffff7f
+>>>>>>> parent of 53f5659... rand
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: gmap260_colorTiles
-      m_OriginalName: gmap260_colorTiles
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 11804
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 8}
+      m_ClientGUIView: {fileID: 0}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -700,10 +775,14 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000122c0000
 =======
     m_ExpandedIDs: 000000002c270000
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
+=======
+    m_ExpandedIDs: 000000001c2c0000
+>>>>>>> parent of 53f5659... rand
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -730,7 +809,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: e0290000d82700000000000002350000fa34000006350000fe340000a8370000ac370000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -780,14 +859,18 @@ MonoBehaviour:
   m_DepthBufferBits: 32
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 204
 <<<<<<< HEAD
     y: 93
     width: 417
     height: 514
 =======
+=======
+    x: 202
+>>>>>>> parent of 53f5659... rand
     y: 92
-    width: 1141
+    width: 627
     height: 608
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
   m_MaximizeOnPlay: 0
@@ -799,6 +882,7 @@ MonoBehaviour:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -104.25
     m_HBaseRangeMax: 104.25
     m_VBaseRangeMin: -65.15625
@@ -809,6 +893,12 @@ MonoBehaviour:
     m_VBaseRangeMin: -295.5
     m_VBaseRangeMax: 295.5
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
+=======
+    m_HBaseRangeMin: -313.5
+    m_HBaseRangeMax: 313.5
+    m_VBaseRangeMin: -195.9375
+    m_VBaseRangeMax: 195.9375
+>>>>>>> parent of 53f5659... rand
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -826,6 +916,7 @@ MonoBehaviour:
       x: 0
       y: 17
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 417
       height: 497
     m_Scale: {x: 2, y: 2}
@@ -836,6 +927,12 @@ MonoBehaviour:
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 570.5, y: 295.5}
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
+=======
+      width: 627
+      height: 591
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 313.5, y: 295.5}
+>>>>>>> parent of 53f5659... rand
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -843,14 +940,18 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       x: -104.25
       y: -124.25
       width: 208.5
       height: 248.5
 =======
       x: -570.5
+=======
+      x: -313.5
+>>>>>>> parent of 53f5659... rand
       y: -295.5
-      width: 1141
+      width: 627
       height: 591
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
     m_MinimalGUI: 1
@@ -858,10 +959,14 @@ MonoBehaviour:
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastWindowPixelSize: {x: 834, y: 1028}
 =======
   m_LastWindowPixelSize: {x: 1141, y: 608}
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
+=======
+  m_LastWindowPixelSize: {x: 627, y: 608}
+>>>>>>> parent of 53f5659... rand
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -888,14 +993,18 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 625
     y: 93
     width: 536
     height: 514
 =======
     x: 1349
+=======
+    x: 833
+>>>>>>> parent of 53f5659... rand
     y: 92
-    width: 200
+    width: 716
     height: 608
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
   m_SceneLighting: 1
@@ -905,6 +1014,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 38.90728, y: -27.14718, z: 5.9599566}
     speed: 2
     m_Value: {x: 38.90728, y: -27.14718, z: 5.9599566}
@@ -913,6 +1023,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -4.4435716, y: -26.61714, z: -0.2109375}
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
+=======
+    m_Target: {x: -3.3253894, y: -15.951567, z: 6.323058}
+    speed: 2
+    m_Value: {x: -3.3253894, y: -15.951567, z: 6.323058}
+>>>>>>> parent of 53f5659... rand
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -931,14 +1046,15 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
     zGrid:
-      m_Target: 1
+      m_Target: 0
       speed: 2
-      m_Value: 1
+      m_Value: 0
   m_Rotation:
     m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Target: 39.696484
     speed: 2
@@ -948,6 +1064,11 @@ MonoBehaviour:
     speed: 2
     m_Value: 57.401176
 >>>>>>> 53f5659449b9a34a22fa7e8437f211b5e56da51f
+=======
+    m_Target: 3.3517582
+    speed: 2
+    m_Value: 3.3517582
+>>>>>>> parent of 53f5659... rand
   m_Ortho:
     m_Target: 1
     speed: 2
